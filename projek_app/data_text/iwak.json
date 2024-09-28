@@ -1,19 +1,19 @@
 {
+    "common" : [
+                ["mujair", 9000],
+                ["gurame", 13000],
+                ["tongkol", 5000],
+                ["bandeng", 3000],
+                ["lele", 7000],
+                ["teri", 1000]
+                ],
+    "rare" : [
+                ["silvefish", 120000],
+                ["cupang", 50000],
+                ["kembung", 55000]
+            ],
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    "epic" : [
+                ["lohan", 500000]
+            ]
 }
